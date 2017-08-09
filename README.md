@@ -16,14 +16,14 @@ Variable - Description
 
 - ID - Unique ID
 - datetime - timestamp
-siteid - website id
-offerid - offer id (commission based offers)
-category - offer category
-merchant - seller ID
-countrycode - country where affiliates reach is present
-browserid - browser used
-devid - device used
-click - target variable
+- siteid - website id
+- offerid - offer id (commission based offers)
+- category - offer category
+- merchant - seller ID
+- countrycode - country where affiliates reach is present
+- browserid - browser used
+- devid - device used
+- click - target variable
 
 **Evaluation Metric**
 
