@@ -31,9 +31,9 @@ Submission will be evaluated based on AUC-ROC score. Higher the better.
 
 **Libraries used**
 
-pandas 
-numpy
-sklearn 
+- pandas 
+- numpy
+- sklearn 
 
 **Regressor used**
 
