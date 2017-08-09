@@ -14,8 +14,8 @@ In this challenge, you have to predict the probability whether an ad will get cl
 You are given three files to download: train.csv, test.csv and sample_submission.csv Variables in this data set are anonymized due to privacy. The training data is given for 10 days . The test data is given for next 3 days.
 Variable - Description
 
-ID - Unique ID
-datetime - timestamp
+- ID - Unique ID
+- datetime - timestamp
 siteid - website id
 offerid - offer id (commission based offers)
 category - offer category
